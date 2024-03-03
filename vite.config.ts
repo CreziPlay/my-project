@@ -1,4 +1,4 @@
-/// <reference types="my-project" />
+/// <reference types="vitest" />
 
 import { URL, fileURLToPath } from 'node:url'
 import vue from '@vitejs/plugin-vue'
